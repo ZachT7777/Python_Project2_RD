@@ -7,3 +7,5 @@ humanp53_DNA_binding_structure (1).pdb contains the .pdb information for 3D stru
 
 humanp53_nucleotide_DNAbinding.fasta contains the nucleotide sequences of human p53 DNA binding domain necessary for a pairwise sequence alignment using biopython pairwise2
 
+loxodontap53_DNAbinding_structure (1).pdb contains the .pdb info for 3d structure generation of the DNA binding domain of African Elephant p53 using NGLview
+
