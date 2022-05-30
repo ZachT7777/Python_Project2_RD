@@ -2,3 +2,6 @@
 This is a rough draft of my python project 2 upload for BIMM 143 SP22
 
 Uploaded Files:
+
+humanp53_DNA_binding_structure (1).pdb contains the .pdb information for 3D structure generation of human p53 using NGLview
+
